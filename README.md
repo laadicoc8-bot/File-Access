@@ -1,2 +1,1 @@
-print ("LUN LELO FILE KA")
-sys.exit() 
+print ("LUN LELO FILE KA") sys.exit() 
