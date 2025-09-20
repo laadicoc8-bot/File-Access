@@ -1,1 +1,1 @@
-nothing
+print ("LUN LELO FILE KA")
