@@ -1,1 +1,1 @@
-(print "LUN LELO")
+"expired"
