@@ -328,7 +328,7 @@ def InfoAcc(username,gg):
 def pppp():
     os.system('cls' if os.name=='nt' else 'clear')
     print("→"*54)
-    print(f"→ {green}UNC: [{hits}]  ~  {red}BAD: [{bad_gm}]  ~  {yellow}BAD EMAIL: {bad_mail} {white}☞       𝐋𝐎𝐕𝐄𝐏𝐑𝐄𝐄𝐓")
+    print(f"→ {green}UNC: [{hits}]  ~  {red}BAD: [{bad_gm}]  ~  {yellow}BAD EMAIL: {bad_mail} {white}☞       𝐋𝐎𝐕𝐄𝐏𝐑𝐄𝐄𝐓       ")
     print("→"*54)
     print(":: ☞ LEVI ☜ ::".center(54))
 import requests
